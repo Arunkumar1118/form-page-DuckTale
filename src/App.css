@@ -1,0 +1,52 @@
+.container {
+  height: 100vh;
+  margin: auto;
+  width: 80%;
+  display: flex;
+  text-align: center;
+  
+  
+  
+}
+.arun{
+  padding: 20px;
+ 
+
+}
+form{
+  justify-content: center;
+  margin: auto;
+  width: 100%;
+  padding: 20px;
+  display: block;
+  border-radius: 20px;
+  background: #e5e5e5;
+  padding: 20px;
+  width: 200px;
+  height: 90vh;
+  
+}
+input {
+  border-radius: 20px;
+  
+  border: 0px solid;
+  height: 20px;
+  width: 160px;
+  color: rgb(31, 31, 31);
+}
+label {
+  box-sizing: border-box;
+  align-items: center;
+  
+  
+}
+input:focus {
+  outline:none;
+}
+.button{
+  width: 80px;
+  height: 40px;
+  background-color: blue;
+  color: white;
+  border-radius: 30px;
+}
